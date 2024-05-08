@@ -1,0 +1,121 @@
+---
+title: Introduction to Statutory Annual Statement
+subtitle: for Property and Casualty Insurance Companies
+author: "Denis Dreano"
+date: 2024-04-20
+---
+
+# Purpose
+
+The goal of this document is to provide an overview of the Statutory Annual
+Statement (SAS) for Property and Casualty (P&C) insurance companies. The SAS is
+a comprehensive report that insurance companies must file annually with state
+insurance departments. It provides detailed financial information about the
+company's operations, including its assets, liabilities, income, and expenses.
+
+# Finding Examples of Statement
+
+The best way to understand the SAS is to look at examples from real insurance
+companies. You can find these examples on the website of the California
+Department of Insurance:
+[https://interactive.web.insurance.ca.gov/sas/](https://interactive.web.insurance.ca.gov/apex_extprd/f?p=144:6:17550497214296::NO:RP,6:P6_COMPANY_ID,P6_NAIC:6740,11150).
+
+# Overview
+
+
+1. Jurat (p.1) [^jurat]
+2. Financial Statements
+    1. Balance Sheet
+        1. Assets
+            * L.1: Bonds [^p2l1]
+            * L.2.1: Preferred Stock [^p2l2.1]
+            * L.2.2: Common Stock [^p2l2.2]
+            * L.4: Real Estate [^p2l4]
+            * L.5: Cash, cash equivalents and short-term investment [^p2l5]
+            * L.8: Other invested assets [^p2l8]
+            * L.12: Subtotal, cash and invested assets [^p2l12]
+            * L.15.1 Uncollected premiums and agents balances [^p2l15.1]
+            * L.15.2 Deferred premiums and agents balances [^p2l15.2]
+            * L.16.1 Amounts recoverable from reinsurers [^p2l16.1]
+            * L.18.2 Net deferred tax asset  [^p2l18.2]
+            * L.23 Receivables from parent, subsidiaries and affiliates [^p2l23]
+            * L.25 Aggregate write-ins Other non-invested assets [^p2l25]
+            * L.28 Total [^p2l28]
+        2. Liabilities, Surplus, and Other Funds
+            * L.1: Losses [^p3l1]
+            * L.2: Reinsurance payable on paid loss and loss adjustment expenses [^p3l2]
+            * L.3: Loss adjustment expenses [^p3l2]
+            * L.5: Other expenses (excluding taxes, licenses and fees) [^p3l2]
+            * L.9: Unearned premiums [^p3l2]
+            * L.12: Ceded reinsurance premiums payable [^p3l2]
+            * L.13: Funds held under reinsurance treaties [^p3l2]
+            * L.16: Provision for reinsurance [^p3l2]
+            * L.25: Aggregate write-in for liabilities, Other liabilities [^p3l2]
+            * L.28: Subtotal, liabilities [^p3l2]
+    2. [Income Statement (p.4)](./income-statement.md)
+        1. [Income](./income.md)
+            1. [Underwriting Income](./underwriting-income.md)
+            2. [Investment Income](./investment-income.md)
+            3. [Other Income](./other-income.md)
+        2. [Capital and Surplus](./capital-surplus.md)
+    3. [Cash Flow Statement (p.5)](./cash-flow-statement.md)
+4. Exhibits
+    1. Underwriting and Investment Exhibit p.6
+        1. Part 1 -- Premium Earned p.6
+        2. Part 1A -- Recapitulation of all Premiums p.7
+        3. Part 1B -- Premium Written p.8
+        4. Part 2 -- Losses Paid and Incurred p.9
+        5. Part 2A -- Unpaid Losses and Loss Adjustment Expenses p.10
+        6. Part 3 -- Expenses p.11
+    2. Exhibit of Net Investment Income p.12
+    3. Exhibit of Capital Gains (Losses) p.12
+    4. Exhibit of Non-Admitted Assets p.13
+5. Notes to Financial Statements p.14
+6. General Interrogatories p.15-16
+    1. Part 1 -- Common Interrogatories p.15
+        1. General
+        2. Board of Directors
+        3. Financial
+        4. Investment
+        5. Other
+    2. Part 2 -- Property And Casualty Interrogatories p.16
+7. Five-Year Historical Data p.17-18
+8. Exhibit of Premiums and Losses (by State) p.19
+9. Schedules
+    1. Schedule F p.20-29
+        1. [Part 1 -- Reinsurance Assumed p.20](./reinsurance-assumed.md)
+        2. Part 2 -- Premium Portfolio Reinsurance Effected of (Cancelled) during Year p.21 [^F2]
+        3. Part 3 -- Reinsurance Ceded p.22-26
+        4. Part 4 -- Issuing or Confirming Banks for letters of credit p.27
+        5. Part 5 -- Interrogatories for Schedule F p.28
+        6. Part 6 -- Restatement of Balance Sheet to Identify Net Credit for Reinsurance p.29
+    2. Schedule H -- Accident and Health p.30-32
+    2. Schedule P -- Property p.33-93
+    2. Schedule T -- Exhibit of Premiums Written p.94-95
+    2. Schedule Y -- Information Concerning Activites of Insurer Members of Insurance Groups p.96-99
+10. Supplemental Exhibits and Schedule Interrogatories p.100
+11. Overflow Page for Write-Ins p.101
+    
+
+[^jurat]: Basic information about the reporting entity
+
+[^p2l1]: Details in Schedule D.
+[^p2l2.1]:
+[^p2l2.2]:
+[^p2l4]: Details in Schedule A.
+[^p2l5]: Details on cash in Schedule E-1, cash equivalents
+    in Schedule E-2, and short-term investments Schedule DA. 
+    A reconciliation is also made in the Cash Flow statement.
+[^p2l8]:
+[^p2l12]:
+[^p2l15.1]:
+[^p2l15.2]:
+[^p2l16.1]: Details in Schedule F.
+[^p2l18.2]:
+[^p2l23]:
+[^p2l25]:
+[^p2l28]: Sum of all assets
+
+
+[^F2]: Portfolio reinsurance is mainly used when the reporting entity wants to
+    exit a line of business.
